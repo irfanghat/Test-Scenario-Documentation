@@ -1,18 +1,3 @@
-The following article outlines the sample documentation structure for each test scenario, which you can adapt and host accordingly.
-
-### Sample Documentation Structure
-
-Each scenario, should include:
-
--   **Overview**: A high-level description of the scenario.
--   **Preconditions**: Conditions that need to be met before running the scenario.
--   **Steps**: A list of steps to follow when running the scenario.
--   **Expected Result**: The expected outcome when the scenario executes successfully.
--   **Error Handling**: Possible errors that may occur and how they should be handled.
--   **Logs**: Example of the error traceback from the logs, as you provided.
-    
-----------
-
 ### Scenario 1: **Create Collection and Dataset Add It to the Collection and Check Dataset's Access Level**
 
 **Overview**: This scenario tests the creation of a new collection and dataset, adding the dataset to the collection, and checking the access level of the dataset.
